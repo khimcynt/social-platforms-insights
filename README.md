@@ -1,5 +1,5 @@
 # social-platforms-insights
-This project purpose was to find some interesting insights from over 2,400 Thai-influencers posts on social media platforms; Facebook, Instagram, Youtube, Twitter in the range of 365 days.
+This project purpose was to find some interesting insights from the records of over 2,400 Thai-influencers posts on four social media platforms;Facebook, Instagram, Youtube, and Twitter in the range of 365 days. Therefore, the insightful facts that we found could be benefitial to hekp decide who when and where to market to optimize cost and get the most out of it.
 
 
 **Title** : ระบบวิเคราะห์ข้อมูลสื่อสังคมออนไลน์เพื่อสร้างแผนการตลาดบนแพลตฟอร์มออนไลน์ที่เหมาะสมให้กับธุรกิจ
@@ -11,7 +11,9 @@ This project purpose was to find some interesting insights from over 2,400 Thai-
 3. micro-influencers ที่ตอบโจทย์ต่อความต้องการ
 
 ------------
-  **project-url** :  https://aployrol.wixsite.com/contentmarketing
+  **project-url** :  
+### Click this link to view the project result
+### https://aployrol.wixsite.com/contentmarketing
 https://drive.google.com/drive/folders/10moMVRIU7-r-KVbrsDI260vvzK-NDHx6?usp=sharing
 
 ------------
@@ -46,7 +48,7 @@ https://public.tableau.com/profile/chanyanut.suteerayongprasert#!/?newProfile=&a
 ------------
   **validation**
   เพื่อยืนยันว่าระบบนี้สามารถแสดงVisualizationใน3จุดมุ่งหมายอย่างมีประสิทธิภาพมากที่สุดตามจุดมุ่งหมาย 3 ประการ คือ
-1.  ลักษณะเด่นของแต่ละแพลตฟอร์ม
+1. ลักษณะเด่นของแต่ละแพลตฟอร์ม
 2. ลักษณะคอนเทนท์ที่เหมาะสม
 3. micro-influencers ที่ตอบโจทย์
 ผู้จัดทำจึงตรวจสอบโดยการทำgoogle form เพื่อแก้ไขให้เกิดประสิทธิภาพ
