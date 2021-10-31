@@ -6,12 +6,9 @@ This project purpose was to find some interesting insights from over 2,400 Thai-
 
 ------------
   **Description** :  micro - influencers นั้นมีอยู่มากมายบนโลกออนไลน์ซึ่งล้วนทำคอนเทนท์ที่ต่างกัน ดังนั้นเพื่อที่จะสามารถการทำการตลาดบนแพลตฟอร์มออนไลน์ในรูปแบบต่าง ๆ ไม่ว่าจะเป็นบน Facebook Instagram Youtube หรือ Twitter ย่อมมีรายละเอียดและความสำคัญแตกต่างกันออกไปตามสื่อที่ต้องการส่งไปยังลูกค้า ดังนั้นเพื่อให้เกิดการสร้างสื่อสังคมที่มีประสิทธิภาพสูงสุดและไม่เสียต้นทุนโดยสูญเปล่า ระบบนี้จะช่วยในการตัดสินในโดยพิจารณาจาก 3 แง่มุมสำคัญ คือ 
-1.  ลักษณะเด่นของแต่ละแพลตฟอร์ม
+1. ลักษณะเด่นของแต่ละแพลตฟอร์ม
 2. ลักษณะคอนเทนท์ที่เหมาะสม
 3. micro-influencers ที่ตอบโจทย์ต่อความต้องการ
-
-------------
-  **Thumbnail** : [![Overall insights](https://www.canva.com/design/DAEc37c2SDo/view?utm_content=DAEc37c2SDo&utm_campaign=designshare&utm_medium=link&utm_source=viewer "Overall insights")](https://www.canva.com/design/DAEc37c2SDo/view?utm_content=DAEc37c2SDo&utm_campaign=designshare&utm_medium=link&utm_source=viewer "Overall insights")
 
 ------------
   **project-url** :  https://aployrol.wixsite.com/contentmarketing
